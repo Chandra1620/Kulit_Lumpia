@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Kontur Kulit Lumpia (Panggang Keemasan) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,36 C32,33.79 33.79,32 36,32 L72,32 C74.21,32 76,33.79 76,36 L76,72 C76,74.21 74.21,76 72,76 L36,76 C33.79,76 32,74.21 32,72 Z"/>
+    <path
+        android:fillColor="#FBEADB"
+        android:pathData="M36,36 L72,36 L72,72 L36,72 Z"/>
+    <path
+        android:fillColor="#B25E1A"
+        android:pathData="M42,46 L66,46 L66,50 L42,50 Z M42,54 L66,54 L66,58 L42,58 Z M42,62 L60,62 L60,66 L42,66 Z"/>
+</vector>
+

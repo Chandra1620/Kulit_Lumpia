@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Warna background icon launcher Kulit Lumpia (#B25E1A sesuai DESIGN.md) -->
+    <color name="ic_launcher_background">#B25E1A</color>
+</resources>
+
