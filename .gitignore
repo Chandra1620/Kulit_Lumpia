@@ -62,3 +62,9 @@ local.properties
 Captures/
 *.hprof
 
+# Markdown documentation — abaikan dokumen internal, spek bisnis, dan laporan
+*.md
+!README.md
+!**/README.md
+
+
